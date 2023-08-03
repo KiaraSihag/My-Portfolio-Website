@@ -1,5 +1,4 @@
 # My-Portfolio-Website
-<h1 align="center">Hi 👋, I'm Khushi Sihag</h1>
 <img align="center" alt="website-view" src="images/Whole-view.png">
 
 <h3 align="left">Support:</h3>
