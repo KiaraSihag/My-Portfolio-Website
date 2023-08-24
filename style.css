@@ -35,6 +35,10 @@ body {
     padding: 10px 10%;
 }
 
+.justified-paragraph {
+  text-align: justify;
+}
+
 nav {
     display: flex;
     align-items: center;
